@@ -1,6 +1,6 @@
 ﻿---
 title: "Brawler Crawler / A.D. | Tequila Works (Cancelled)"
-description: "PVE multiplayer action game. Working as AI Gameplay Programmer for 2 years"
+description: "PVE multiplayer action game. Worked as AI Gameplay Programmer for 2 years"
 date: 2022-08-15
 image:
   path: assets/img/brawler/ad.jpg # Add image post (optional)
