@@ -1,6 +1,6 @@
 ﻿---
 title: "Song of Nunu: A League of Legends Story"
-description: "Single player narrative adventure. Worked as Gameplay Programmer for 1 year"
+description: "Single player narrative adventure.<br> Worked as Gameplay Programmer for 1 year"
 date: 2023-11-01
 image:
   path: assets/img/nunu/nunu.jpg # Add image post (optional)
