@@ -1,5 +1,5 @@
 ﻿---
-title: "Brawler Crawler / A.D. | Tequila Works (Cancelled)"
+title: "Brawler Crawler / A.D. (Cancelled)"
 description: "PVE multiplayer action game. Worked as AI Gameplay Programmer for 2 years"
 date: 2022-08-15
 image:
@@ -25,7 +25,7 @@ Multiplayer environment, where the players will need to collaborate to discover 
 * AI Director
 * Animation
 * State Machine
-* RPG
+* Gameplay Ability System
 
 
 
