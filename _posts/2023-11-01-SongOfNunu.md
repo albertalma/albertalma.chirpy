@@ -4,6 +4,11 @@ description: "Single player narrative adventure.<br> Worked as Gameplay Programm
 date: 2023-11-01
 image:
   path: assets/img/nunu/nunu.jpg # Add image post (optional)
+platforms:
+  - "fa-brands fa-playstation"
+  - "fa-brands fa-xbox"
+  - "fa-brands fa-steam"
+  - "fa-brands fa-switch"
 ---
 
 *Song of Nunu: A League of Legends Story is a single-player story adventure developed by Tequila Works. Dive headfirst 

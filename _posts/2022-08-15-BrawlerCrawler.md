@@ -4,6 +4,11 @@ description: "PVE multiplayer action game. <br> Worked as AI Gameplay Programmer
 date: 2022-08-15
 image:
   path: assets/img/brawler/ad.jpg # Add image post (optional)
+
+platforms:
+  - "fa-brands fa-playstation"
+  - "fa-brands fa-xbox"
+  - "fa-brands fa-steam"
 ---
 
 *Based on classical arcade brawler 2D games (like Streets of Rage). A.D was supposed to reinvent that format into a 3D 

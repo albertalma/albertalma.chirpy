@@ -4,6 +4,10 @@ description: "Open-world 3rd person stealth action game. <br> Worked as AI Gamep
 date: 2024-11-15
 image:
   path: assets/img/dragonslake/nda.png # Add image post (optional)
+platforms:
+  - "fa-brands fa-playstation"
+  - "fa-brands fa-xbox"
+  - "fa-brands fa-steam"
 ---
 
 *Unannounced open-world stealth action game where players embody a modern ninja, balancing infiltration and direct combat. 
